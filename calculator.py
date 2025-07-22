@@ -26,3 +26,8 @@ def calculate(a, b, op):
 if st.button("Calculate"):
     result = calculate(num1, num2, operation)
     st.success(f"Result: {result}")
+
+# Footer
+from muthu_footer import add_footer
+add_footer()
+
