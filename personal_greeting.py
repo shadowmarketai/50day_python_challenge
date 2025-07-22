@@ -12,3 +12,6 @@ greeting = f"Hello {name}! 👋\nWow, {age} is a great age to be! 🎉\nAnd {col
 print("\n🎯 Your Personalized Greeting:")
 print(greeting)
 
+# 👣 Floating Footer
+from muthu_footer import add_footer
+add_footer()
